@@ -1,7 +1,5 @@
 # riverpod_files
-
-A new Flutter project.
-
+Riverpodの練習用プロジェクト
 ## Getting Started
 
 This project is a starting point for a Flutter application.
