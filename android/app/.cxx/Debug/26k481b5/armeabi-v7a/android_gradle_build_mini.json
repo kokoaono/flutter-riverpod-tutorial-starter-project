@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/aono/Project/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/aono/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/aono/Downloads/flutter-riverpod-tutorial-starter-project/android/app/.cxx/Debug/26k481b5/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/aono/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/aono/Downloads/flutter-riverpod-tutorial-starter-project/android/app/.cxx/Debug/26k481b5/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

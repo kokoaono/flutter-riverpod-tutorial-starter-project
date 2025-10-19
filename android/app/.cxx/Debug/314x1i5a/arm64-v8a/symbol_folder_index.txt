@@ -1,0 +1,1 @@
+/Users/aono/Downloads/flutter-riverpod-tutorial-starter-project/build/app/intermediates/cxx/Debug/314x1i5a/obj/arm64-v8a
